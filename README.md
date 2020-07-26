@@ -30,7 +30,7 @@ In this repository I talk about #60daysOfDs&aAlgo. What is it? Why is it? How to
 - [ ] Continue with Python tutorials
 
 ## Warning
-There are few pointers to keep in mind before getting started with #100DaysOfCode challenge.
+There are few pointers to keep in mind before getting started with #60daysofDs&Algo challenge.
 - Do not be overambitious. Miracles do NOT happen overnight.
 - Learn slowly but **consistently**
 - Believe YOU CAN!
