@@ -5,7 +5,7 @@ In this repository I talk about #60daysOfDs&aAlgo. What is it? Why is it? How to
 #60daysOfDs&aAlgo is an effort to learn the concepts of data structure and algorithm. It involves an open commitment to code for at least 1 hour every day!
 
 ## Prerequisites for #60daysOfDs&Algo 
-* Have at least 1 hour to spare **everyday** for the next 100 days.
+* Have at least 1 hour to spare **everyday** for the next 60 days.
 * [Twitter](https://twitter.com/) account to commit publicly.
 * [GitHub](https://github.com/) account so that you can push your everyday progress on GitHub.
  
@@ -32,5 +32,5 @@ In this repository I talk about #60daysOfDs&aAlgo. What is it? Why is it? How to
 ## Warning
 There are few pointers to keep in mind before getting started with #100DaysOfCode challenge.
 - Do not be overambitious. Miracles do NOT happen overnight.
-- Learn slowly but **consistently**.
+- Learn slowly but **consistently**
 - Believe YOU CAN!
