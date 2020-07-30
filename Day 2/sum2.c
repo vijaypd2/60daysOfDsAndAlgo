@@ -18,3 +18,9 @@ int fun1(int n)
         sum++;
       return sum;
 }
+
+
+
+1+   1+1
+
+1 + 1+1 1+1+1   
