@@ -2,7 +2,7 @@
 
 * Given a number n write a function to find the sum of first n natural numbers
 
-	sample	i/p: 3
+	sample	i/p: 3<br />
 	sample	o/p :5
 
 
@@ -13,6 +13,6 @@
 	Input: A sequence of non-negative integers.<br />
         Output: The maximum value that can be obtained by multiplying two different elements from the sequence.
 
-	sample	i/p: 3
-                     1 2 3
+	sample	i/p: 3<br />
+                     1 2 3<br />
 	sample	o/p :6
