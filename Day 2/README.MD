@@ -4,7 +4,7 @@
 <pre>
 	sample	i/p: 3<br />
 	sample	o/p :5
-<pre>
+</pre>
 
 ## Maximum Pairwise Product Problem
 
