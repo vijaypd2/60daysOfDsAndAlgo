@@ -12,7 +12,7 @@
 
 	Input: A sequence of non-negative integers.<br />
         Output: The maximum value that can be obtained by multiplying two different elements from the sequence.
-
+<pre>
 	sample	i/p: 3<br />
-              <pre>       1 2 3<br />
+                     1 2 3<br />
 	sample	o/p :6
