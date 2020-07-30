@@ -1,5 +1,3 @@
-/*Sum of n natural numbers*/
-
 #include<stdio.h>
 int main()
 {
@@ -14,5 +12,8 @@ printf("sum = %d\n",sum);
 
 int fun1(int n)
 {
-  return n*(n+1)/2;
+  int sum = 0;
+  for(int i = 1; i<=n; i++)
+    sum = sum +i;
+  return sum;
 }
