@@ -25,14 +25,15 @@
 #     print(numbers[max2_index])
 #     return (numbers[max1_index]*numbers[max2_index])
 
+
 def max_pairwise_productSFast(numbers):
     m1 = max(numbers)
     numbers.remove(m1)
     m2 = max(numbers)
-    return (m1*m2)
+    return m1 * m2
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     input_n = int(input())
     input_numbers = [int(x) for x in input().split()]
     # print(max_pairwise_product(input_numbers))

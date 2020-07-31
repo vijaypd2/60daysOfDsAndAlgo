@@ -11,6 +11,7 @@
 
 #     return max_product
 
+
 def max_pairwise_productFast(numbers):
     n = len(numbers)
     max1_index = -1
@@ -20,13 +21,15 @@ def max_pairwise_productFast(numbers):
             max1_index = i
     print(numbers[max1_index])
     for i in range(0, n):
-        if (i != max1_index) and ((max2_index == -1) or (numbers[i] > numbers[max2_index])):
+        if (i != max1_index) and (
+            (max2_index == -1) or (numbers[i] > numbers[max2_index])
+        ):
             max2_index = i
     print(numbers[max2_index])
-    return (numbers[max1_index]*numbers[max2_index])
+    return numbers[max1_index] * numbers[max2_index]
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     input_n = int(input())
     input_numbers = [int(x) for x in input().split()]
     # print(max_pairwise_product(input_numbers))
