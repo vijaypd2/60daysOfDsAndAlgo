@@ -1,4 +1,4 @@
-#python3
+# python3
 
 print("enter the nos :")
 a = int(input("first no:"))
