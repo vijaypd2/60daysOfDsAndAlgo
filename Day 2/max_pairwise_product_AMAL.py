@@ -26,12 +26,10 @@
 #     return (numbers[max1_index]*numbers[max2_index])
 
 def max_pairwise_productSFast(numbers):
-    m1=max(numbers)
+    m1 = max(numbers)
     numbers.remove(m1)
-    m2=max(numbers)
+    m2 = max(numbers)
     return (m1*m2)
-
-
 
 
 if __name__ == '__main__':
