@@ -18,9 +18,8 @@ def max_pairwise_productFast(numbers):
             max1_index = i
     print(numbers[max1_index])
     for i in range(0, n):
-        if (i != max1_index) and (
-            (max2_index == -1) or (numbers[i] > numbers[max2_index])
-        ):
+        if (i != max1_index) and ((max2_index == -1) or
+                                  (numbers[i] > numbers[max2_index])):
             max2_index = i
     print(numbers[max2_index])
     return numbers[max1_index] * numbers[max2_index]
