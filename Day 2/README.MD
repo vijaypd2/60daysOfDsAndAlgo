@@ -3,7 +3,7 @@
 * Given a number n write a function to find the sum of first n natural numbers
 <pre>
 	sample	i/p: 3<br />
-	sample	o/p :5
+	sample	o/p :6
 </pre>
 
 ## Maximum Pairwise Product Problem
