@@ -15,7 +15,7 @@ void main(){
 	}
 	else {
 		for(j=0;j<n;j++){
-		for(k=j+1;k<n;j++){
+		for(k=j+1;k<n;k++){
 		p=a[j]*a[k];
 		if(p>mpp)
 		{
