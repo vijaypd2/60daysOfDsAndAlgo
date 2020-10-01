@@ -22,5 +22,5 @@ void main(){
 			mpp=p;
 		}}}	
 	}
-	printf("maximum pairwise product is: %d",mpp);		
+	printf("the max pairwise product of the input data is: %d",mpp);		
 }	
